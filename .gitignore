@@ -1,0 +1,6 @@
+Waterworld/Temp
+Waterworld/Library
+
+*.csproj
+*.sln
+*.sublime-workspace
